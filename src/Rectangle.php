@@ -60,7 +60,7 @@ class Rectangle
      *
      * @var array
      */
-    protected $data;
+    public $data;
 
     /**
      * Indicates whether the rotate function was called
